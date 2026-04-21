@@ -1,5 +1,5 @@
 # swarmcore
-Patent Pending: GB2603013.0 (filed 5 Feb 2026) and related PCT applications.
+Patent Pending: GB2603013.0 (filed 10 Feb 2026) and related PCT applications.
 Commercial use or derivative works may require licensing. Contact IBA@intentbound.com
 
 **Lightweight multi-agent coordinator inspired by the Anthropic Claude Code leak**
